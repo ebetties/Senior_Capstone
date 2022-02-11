@@ -9,3 +9,4 @@
 - [X] Fix radio button issues and have it change the states of the location variable
 - [X] Fix memory leakage issues on Dashboard component
 - [ ] Create default states for the Mapapi component for better logic(check the code for comments)
+test    betties
